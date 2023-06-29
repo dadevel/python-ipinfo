@@ -2,15 +2,15 @@
 
 [[package]]
 name = "maxminddb"
-version = "2.3.0"
+version = "2.4.0"
 description = "Reader for the MaxMind DB format"
 optional = false
 python-versions = ">=3.7"
 files = [
-    {file = "maxminddb-2.3.0.tar.gz", hash = "sha256:120920dddd955f32ae48c207c6cef6fd5dc8874a889ba94b0f2c1f736ecdf308"},
+    {file = "maxminddb-2.4.0.tar.gz", hash = "sha256:81e54e53408bd502650e5969ccba16780af659ec1db1c44b2c997e4330a5ed96"},
 ]
 
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "b11e71b3de27b54f57ea0a17588eaf1b2d711e7be6a7bbce36234d4e6052cb60"
+content-hash = "2559cead36ed910f38eaee58446e1fb8d7f427edf5d68f0648057e1b20adcba8"
